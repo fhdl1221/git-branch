@@ -1,4 +1,4 @@
-# README
+# git branch 명령어 정리
 
 - 브랜치 확인
   - git branch
@@ -18,5 +18,5 @@
   - git branch -d {branch_name}
   - git brnach -D {branch_name}
 
-  
+
 
